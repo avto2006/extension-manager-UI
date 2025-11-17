@@ -3,6 +3,12 @@ header {
     justify-content: space-around;
     align-items: center;
     margin-top: 2vh;
+    background-color: red;
+
+}
+
+.lightMode {
+    display: none;
 }
 
 
@@ -15,6 +21,6 @@ header {
 }
 
 .modes {
-    margin-top: 3vh;
+    margin-top: 1vh;
 }
 
