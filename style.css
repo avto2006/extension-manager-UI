@@ -11,6 +11,11 @@ header {
     display: none;
 }
 
+.web_nav {
+    display: flex;
+    gap: 70vh;
+}
+
 
 
 .webLogo {
